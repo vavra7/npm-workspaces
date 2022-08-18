@@ -1,0 +1,6 @@
+{
+  "name": "vavra7",
+  "workspaces": [
+    "packages/*"
+  ]
+}

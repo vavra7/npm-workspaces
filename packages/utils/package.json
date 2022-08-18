@@ -1,0 +1,16 @@
+{
+  "name": "@vavra7/utils",
+  "version": "0.3.0",
+  "description": "Useful utils",
+  "main": "dist",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
